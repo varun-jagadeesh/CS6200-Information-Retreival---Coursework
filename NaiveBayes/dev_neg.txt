@@ -1,0 +1,602 @@
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/20531.txt
+Positive Prob-5703.083552691284
+Negative Prob-5709.8665227981555
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/25886.txt
+Positive Prob-5763.503036921294
+Negative Prob-5787.479375978778
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/6649.txt
+Positive Prob-6986.850649333974
+Negative Prob-6876.337619742435
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5778.txt
+Positive Prob-1785.9154222581833
+Negative Prob-1774.6990399950591
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17215.txt
+Positive Prob-7244.691193375635
+Negative Prob-7195.704078403184
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/19210.txt
+Positive Prob-4400.694553740401
+Negative Prob-4351.645240496852
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5168.txt
+Positive Prob-3682.5538095937336
+Negative Prob-3635.472197497038
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18090.txt
+Positive Prob-3060.884830412603
+Negative Prob-3045.711747834882
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/27512.txt
+Positive Prob-5927.885170145322
+Negative Prob-5916.802244327117
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/24782.txt
+Positive Prob-5379.941198255996
+Negative Prob-5339.606647451042
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13890.txt
+Positive Prob-6269.695255146652
+Negative Prob-6196.09230502718
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13660.txt
+Positive Prob-4775.738479459352
+Negative Prob-4734.5185538442
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/9633.txt
+Positive Prob-5632.17283615715
+Negative Prob-5635.268420621136
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/28796.txt
+Positive Prob-6866.500262209912
+Negative Prob-6838.146755576314
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17204.txt
+Positive Prob-5132.7555733849285
+Negative Prob-5101.4632521516305
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13710.txt
+Positive Prob-5566.837924833568
+Negative Prob-5523.538072093811
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/24157.txt
+Positive Prob-7232.203144366128
+Negative Prob-7165.384945700705
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/3087.txt
+Positive Prob-5218.230637899907
+Negative Prob-5199.596779738911
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5622.txt
+Positive Prob-1167.4867315032836
+Negative Prob-1162.030035203654
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/16325.txt
+Positive Prob-6445.232875783156
+Negative Prob-6421.274059718969
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/12182.txt
+Positive Prob-7837.826186998684
+Negative Prob-7795.669189677732
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/28381.txt
+Positive Prob-3045.5294745130154
+Negative Prob-3008.628230464944
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17819.txt
+Positive Prob-4256.874169912405
+Negative Prob-4202.394259608349
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22134.txt
+Positive Prob-2935.2775805221318
+Negative Prob-2892.759607594813
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22646.txt
+Positive Prob-6538.318078439278
+Negative Prob-6478.997142504514
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/11703.txt
+Positive Prob-3147.686474537883
+Negative Prob-3118.2472935867067
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/10042.txt
+Positive Prob-5635.081171957046
+Negative Prob-5576.549904521305
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18185.txt
+Positive Prob-4001.27506918313
+Negative Prob-3992.568361596687
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/26731.txt
+Positive Prob-12567.678557140543
+Negative Prob-12471.946196984878
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/26335.txt
+Positive Prob-2478.786932262778
+Negative Prob-2471.276287251451
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/16585.txt
+Positive Prob-2840.29845242606
+Negative Prob-2820.000977823704
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22807.txt
+Positive Prob-4392.642842739365
+Negative Prob-4335.618890851803
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/21895.txt
+Positive Prob-4267.998960300473
+Negative Prob-4284.428813113747
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18033.txt
+Positive Prob-2593.235728735116
+Negative Prob-2587.6181087216446
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29359.txt
+Positive Prob-5762.74004913133
+Negative Prob-5740.062643853712
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29629.txt
+Positive Prob-2905.747165171963
+Negative Prob-2914.0005938912504
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/9335.txt
+Positive Prob-3772.1499947352427
+Negative Prob-3742.188078732728
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15924.txt
+Positive Prob-5350.630427256474
+Negative Prob-5359.636150935269
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/7912.txt
+Positive Prob-3670.6611791507107
+Negative Prob-3619.40608576167
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/21128.txt
+Positive Prob-4922.56815940841
+Negative Prob-4923.766002678151
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15689.txt
+Positive Prob-3507.8554059167654
+Negative Prob-3536.5041622956055
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15886.txt
+Positive Prob-4475.6405897361
+Negative Prob-4478.439053438326
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13773.txt
+Positive Prob-3356.179832962959
+Negative Prob-3354.1561776408034
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22140.txt
+Positive Prob-4408.865079844777
+Negative Prob-4369.42364836302
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/11763.txt
+Positive Prob-3188.986208997987
+Negative Prob-3179.221213998072
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/23466.txt
+Positive Prob-9436.737787042604
+Negative Prob-9400.395028184435
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/19937.txt
+Positive Prob-4044.4241670648403
+Negative Prob-4021.3184180643925
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/21725.txt
+Positive Prob-5778.414822962704
+Negative Prob-5699.241256603417
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17527.txt
+Positive Prob-819.5026409005318
+Negative Prob-806.21548832334
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17055.txt
+Positive Prob-3990.8676330935564
+Negative Prob-3958.6461054928423
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/25971.txt
+Positive Prob-10757.86463230376
+Negative Prob-10688.197405958812
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/1576.txt
+Positive Prob-3636.2455882710447
+Negative Prob-3581.2083979754807
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15520.txt
+Positive Prob-4202.352738986638
+Negative Prob-4185.603799616552
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/11961.txt
+Positive Prob-5636.012153403103
+Negative Prob-5559.546621815037
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13390.txt
+Positive Prob-3649.112254499536
+Negative Prob-3617.080350467093
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/10698.txt
+Positive Prob-6852.20697222169
+Negative Prob-6818.213387682459
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18788.txt
+Positive Prob-5758.771577851426
+Negative Prob-5699.424291524839
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/8584.txt
+Positive Prob-7442.392718802165
+Negative Prob-7435.727204945623
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/10061.txt
+Positive Prob-4469.962655452634
+Negative Prob-4403.1282078266395
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/19051.txt
+Positive Prob-3964.6768084318696
+Negative Prob-3925.300797937601
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17054.txt
+Positive Prob-2399.8325330557677
+Negative Prob-2376.8164433043157
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/14767.txt
+Positive Prob-2243.335259883657
+Negative Prob-2234.2029793429974
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/19479.txt
+Positive Prob-2341.964079292636
+Negative Prob-2306.382191869119
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15257.txt
+Positive Prob-4918.629390882116
+Negative Prob-4869.036321323177
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/24713.txt
+Positive Prob-8492.62911246515
+Negative Prob-8447.622696094879
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/27232.txt
+Positive Prob-5216.863772178459
+Negative Prob-5220.233568942504
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18955.txt
+Positive Prob-1895.012777906387
+Negative Prob-1888.261446770771
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/28882.txt
+Positive Prob-2761.6894755165486
+Negative Prob-2756.7263576108435
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/18362.txt
+Positive Prob-5708.94627217703
+Negative Prob-5729.290255904285
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/6035.txt
+Positive Prob-6439.759367427537
+Negative Prob-6441.989173365918
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/27621.txt
+Positive Prob-6040.86241981394
+Negative Prob-5914.318629808855
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/3367.txt
+Positive Prob-5414.950391536049
+Negative Prob-5414.493917977188
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5702.txt
+Positive Prob-6062.5199141553785
+Negative Prob-5991.366593966829
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5306.txt
+Positive Prob-1948.2900408735375
+Negative Prob-1936.590269968889
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22200.txt
+Positive Prob-2593.3661584835245
+Negative Prob-2564.9431572516455
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/20855.txt
+Positive Prob-6350.478820754427
+Negative Prob-6335.118018549483
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/23192.txt
+Positive Prob-8821.455999256046
+Negative Prob-8758.002718771555
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/20316.txt
+Positive Prob-2853.0387163151763
+Negative Prob-2814.978331798157
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/9567.txt
+Positive Prob-4781.379378887853
+Negative Prob-4735.85629312892
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/23024.txt
+Positive Prob-11493.364356494036
+Negative Prob-11301.231451021195
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/21545.txt
+Positive Prob-4400.9534812692855
+Negative Prob-4344.53682524197
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29119.txt
+Positive Prob-4439.57665407083
+Negative Prob-4414.848207694795
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/9405.txt
+Positive Prob-3146.9555152222715
+Negative Prob-3131.8116218792397
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/14311.txt
+Positive Prob-3534.7468630482167
+Negative Prob-3504.0606885290686
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/13494.txt
+Positive Prob-4596.449511631757
+Negative Prob-4571.898950089444
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/12761.txt
+Positive Prob-7342.290811669001
+Negative Prob-7342.055519205046
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/15230.txt
+Positive Prob-3786.3916421824915
+Negative Prob-3773.519374848405
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29132.txt
+Positive Prob-4886.9771756640275
+Negative Prob-4854.071694743741
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29283.txt
+Positive Prob-3909.8068087127253
+Negative Prob-3905.8557273684323
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/3515.txt
+Positive Prob-5589.679120063207
+Negative Prob-5576.338731036248
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/25678.txt
+Positive Prob-6258.922647511188
+Negative Prob-6255.951649412987
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/17812.txt
+Positive Prob-2896.279172089682
+Negative Prob-2897.847927889842
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/22670.txt
+Positive Prob-6252.828681199696
+Negative Prob-6245.682354192133
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/21392.txt
+Positive Prob-2393.4313661255123
+Negative Prob-2355.5686033822135
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/29447.txt
+Positive Prob-4517.424684586852
+Negative Prob-4500.453079340807
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/12809.txt
+Positive Prob-2252.0830458356486
+Negative Prob-2213.9348258291698
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/12799.txt
+Positive Prob-2010.4306235129932
+Negative Prob-2014.1987679473941
+Positive Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/20266.txt
+Positive Prob-5697.328622143665
+Negative Prob-5648.9078570829015
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/5012.txt
+Positive Prob-1731.816008587586
+Negative Prob-1712.4526130947804
+Negative Review
+
+
+File: /Users/varun/PycharmProjects/Hw-4/textcat/dev/neg/3675.txt
+Positive Prob-1979.2931668592257
+Negative Prob-1965.7575105435567
+Negative Review
+
+No of Positive14
+No of Negative86

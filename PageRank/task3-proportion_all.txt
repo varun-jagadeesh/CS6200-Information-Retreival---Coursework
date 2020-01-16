@@ -1,0 +1,7 @@
+
+ The proportion of websites with no in-links (Sources)
+0.26153633041013563
+ The proportion of websites with no out-links (Sinks)
+0.6106641661427643
+ The proportion of websites whose PageRank is less than their initial
+0.844853857875052
